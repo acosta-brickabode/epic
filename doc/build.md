@@ -4,10 +4,8 @@
 
 - rust 1.44
 - clang
-- ncurses and libs (ncurses, ncursesw5)
 - zlib libs (zlib1g-dev or zlib-devel)
 - pkg-config
-- libssl-dev
 - linux-headers (reported needed on Alpine linux)
 - llvm
 
